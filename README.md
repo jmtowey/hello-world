@@ -1,2 +1,2 @@
 # hello-world
-My first public repo
+My first public repository; a place to practice using git and github
