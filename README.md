@@ -11,4 +11,4 @@ I edited the readme document and committed the changes before pushing the entire
 
 ## Lesson 2: Pull Requests
 
-I used the [GitHub] gui to open a pull request, leave a comment, inspect the pull request, and then merge the pull request.
+I used the **GitHub** gui to open a pull request, leave a comment, inspect the pull request, and then merge the pull request.
